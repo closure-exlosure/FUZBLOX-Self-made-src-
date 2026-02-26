@@ -1,0 +1,42 @@
+body {
+font: normal 8pt/normal 'Comic Sans MS' , Verdana, sans-serif;
+    margin:0;
+    padding:0;
+      background-image:url('fullbck.png');
+     background-position:center;
+     background-size:120%;
+}
+.oldnavbar {
+
+    text-align: center;
+    background-color:rgb(0, 105, 165);
+    height:180px;
+    border:2px double rgba(10, 8, 10, 0.3);
+
+box-shadow:5px 5px 10px solid rgba(0,0,0, 0.2);
+
+}
+
+
+
+
+.oldnavbar a {
+font-size:21px;
+font-weight:700;
+margin:10px;
+    
+}
+
+
+
+
+
+
+
+
+.oldnavbar img {
+height:120px;
+
+}
+
+
