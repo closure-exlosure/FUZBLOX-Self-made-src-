@@ -1,4 +1,4 @@
-                    SIMPLE ATTRIBUTION-NOFALSECLAIM LICENSE
+SIMPLE ATTRIBUTION-NOFALSECLAIM LICENSE
                         Copyright © 2024 Robin for Fuzblox
 
   This license applies to all work (the "Work") created by Robin and hosted on
@@ -21,23 +21,31 @@ TERMS AND CONDITIONS
 3.  PROHIBITION OF FALSE AUTHORSHIP
     You are strictly prohibited from claiming, implying, or stating that you are
     the original creator, author, or maker of this Work. You may not remove or
-    alter any copyright notices or watermarks attached to the Work.
+    alter any copyright notices or watermarks attached to the Work. You also may
+    not use this Work to impersonate Robin, harass Robin, or engage in doxxing,
+    intimidation, or any form of personal attack against the creator.
 
-4.  VIOLATION AND LEGAL ACTION
+4.  NO LIABILITY FOR ISSUES
+    If the Work does not function properly, contains bugs, or causes any issues,
+    you agree that Robin is not responsible. You may not sue Robin, hold Robin
+    liable, or seek damages of any kind related to the performance or failure
+    of this Work.
+
+5.  VIOLATION AND LEGAL ACTION
     Any violation of Section 3 (Prohibition of False Authorship) constitutes a
     material breach of this license. If you misrepresent yourself as the creator
-    of this Work, all rights granted to you under this license immediately
-    terminate.
+    of this Work, or engage in any prohibited conduct against Robin, all rights
+    granted to you under this license immediately terminate.
     FURTHERMORE, YOU AGREE THAT YOU WILL BE SUED FOR YOUR ACTIONS. In the event
     of such a breach, you agree to be held fully liable for all damages, legal
     fees, arbitration costs, and court costs incurred by the copyright holder
     (Robin) as a result of your unauthorized actions.
 
-5.  DISCLAIMER OF WARRANTY
+6.  DISCLAIMER OF WARRANTY
     THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
     IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
     FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE
     AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
-    LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING
+    LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
     FROM, OUT OF, OR IN CONNECTION WITH THE WORK OR THE USE OR OTHER DEALINGS IN
     THE WORK.
